@@ -1,6 +1,7 @@
 package com.dam1.ejercicio1.src.clases
 
 
+
 class Motocicleta(
     marca: String,
     modelo: String,

@@ -6,6 +6,7 @@ import com.dam1.ejercicio1.src.clases.Motocicleta
 
 fun main() {
 
+
     val vehiculo1 = Vehiculo("BMW", "X5", 100)
     val vehiculo2 = Vehiculo("Honda", "Civic", 100)
     val vehiculo3 = Automovil("", "", 100)

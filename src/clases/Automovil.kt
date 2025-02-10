@@ -1,5 +1,6 @@
 package com.dam1.ejercicio1.src.clases
 
+
 class Automovil(
     marca: String,
     modelo: String,

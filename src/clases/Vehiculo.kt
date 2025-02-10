@@ -5,6 +5,7 @@ open class Vehiculo(
     val modelo: String,
     val capacidadCombustible: Int){
 
+
     open fun mostrarInfo(){
         println("Marca: $marca")
         println("Modelo: $modelo")
